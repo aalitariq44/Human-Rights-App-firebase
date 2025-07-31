@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653495917374",
+    "project_id": "human-rights-app",
+    "storage_bucket": "human-rights-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653495917374:android:bec54a3b06e28444066a6f",
+        "android_client_info": {
+          "package_name": "com.example.hoqoqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIggQQ7lmgqOp1OvEsL-RQ8jv5xXujtJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
